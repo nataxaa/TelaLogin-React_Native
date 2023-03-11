@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "nativelogin",
+    "slug": "nativelogin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
